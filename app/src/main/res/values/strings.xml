@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2_Register</string>
+    <string name="signInText">Sign In</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="sendButton">SEND</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="profileTextView">Profile</string>
+    <string name="registerPlainText">Register</string>
+</resources>
